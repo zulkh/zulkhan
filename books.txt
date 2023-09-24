@@ -1,0 +1,26 @@
+[
+ {
+    'questionText': "کتاب",
+    'option1': "Berlin",
+    'option2': "Madrid",
+    'option3': "Paris",
+    'option4': "dehli",
+    'correctOption': "3",
+  },
+    {
+    'questionText': "میری کتاب",
+    'option1': "J.R.R. Tolkien",
+    'option2': "J.K. Rowling",
+    'option3': "George R.R. Martin",
+    'option4': "C.S. Lewis",
+    'correctOption': "1",
+  },
+    {
+    'questionText': "فضائل اعمال",
+    'option1': "J.R.R. Tolkien",
+    'option2': "J.K. Rowling",
+    'option3': "George R.R. Martin",
+    'option4': "C.S. Lewis",
+    'correctOption': "1",
+  },
+]
