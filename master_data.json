@@ -1,0 +1,54 @@
+{
+    "categories": [
+      {
+        "categoryId": 1,
+        "categoryName": "Fiction",
+        "categoryDescription": "Explore the world of fictional stories.",
+        "categoryColor": "#FF5733",
+        "categoryImage": "https://example.com/images/fiction.jpg",
+        "books": [
+          {
+            "bookName": "Book 1 - Fiction",
+            "author": "Author 1",
+            "image_url": "Author 1",
+            "pdf_url":"mybook_name.pdf",
+            "details": "urdu"
+          },
+          {
+            "bookName": "Book 2 - Fiction",
+            "author": "Author 2",
+            "image_url": "myuthor.jpg",
+            "pdf_url":"mybook_name.pdf",
+            "details": "urdu"
+          }
+
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Non-Fiction",
+        "categoryDescription": "Discover factual and informative books.",
+        "categoryColor": "#4CAF50",
+        "categoryImage": "https://example.com/images/nonfiction.jpg",
+        "books": [
+          {
+            "bookName": "Book 1 - Non-Fiction",
+            "author": "Author 1",
+            "image_url": "myuthor.jpg",
+            "pdf_url":"mybook_name.pdf",
+            "details": "urdu"
+          },
+          {
+            "bookName": "Book 2 - Non-Fiction",
+            "author": "Author 2",
+            "image_url": "myuthor.jpg",
+            "pdf_url":"mybook_name.pdf",
+            "details": "urdu"
+          }
+
+        ]
+      }
+
+    ]
+  }
+  
